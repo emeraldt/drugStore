@@ -1,0 +1,256 @@
+D:\Project\Pharmacy\DrugStore\Pharmacy\bin\Debug\Pharmacy.exe
+D:\Project\Pharmacy\DrugStore\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Buy.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.BuyInvoiceList.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.ChangePassword.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.ChangePrice.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Count.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.CountDetail.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DiscountCard.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DiscountCustomer.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DiscountDrug.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DiscountDrugSetting.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Drug.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugBalanceView.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugBill.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugBillView.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugList.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugType.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugUnit.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Module.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.ModuleGroup.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.SaleDetail.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.SalesReturn.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Setting.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Supplier.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.UserGroup.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Users.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Loginscreen.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Mainscreen.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Pos.Discount.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Pos.Normal.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Pos.Payment.resources
+D:\Project\Pharmacy\DrugStore\Pharmecy\obj\x86\Debug\Pharmacy.Forms.Printer.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Properties.Resources.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rBuyInvoice.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rNormalPosTalon.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Settings.ConfigSetting.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Switchscreen.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.exe.licenses
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.exe
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.pdb
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.UserPermission.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.DrugReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.BuyReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rDrugReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rBuyInvoiceReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rBuyShotReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.BuyShotReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.ChangePriceReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rChangePriceReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.SalesReturnReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rSalesReturnReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rDiscountPosTalon.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.SaleReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.SaleShotReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rSaleInvoiceReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rSaleShotReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.LoanClose.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugOrder.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.ExpirationDrug.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.SaleInvoice.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.DiscountCardReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.DiscountDrugReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.DrugOrderReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.ExpirationDrugReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rCashOrder.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rDiscountCardReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rDiscountDrugReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rDrugOrderReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rExpirationDrugReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Settings.SoftAbout.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Printer.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Settings.Manual.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\bin\Debug\Pharmacy.exe
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Buy.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.BuyInvoiceList.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.ChangePassword.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.ChangePrice.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Count.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.CountDetail.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DiscountCard.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DiscountCustomer.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DiscountDrug.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DiscountDrugSetting.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Drug.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugBalanceView.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugBill.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugBillView.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugList.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugOrder.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugType.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugUnit.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.ExpirationDrug.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.LoanClose.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Module.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.ModuleGroup.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.SaleDetail.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.SaleInvoice.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.SalesReturn.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Setting.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Supplier.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.UserGroup.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.UserPermission.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Users.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Loginscreen.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Mainscreen.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Pos.Discount.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Pos.Normal.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Pos.Payment.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Printer.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Properties.Resources.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.BuyReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.BuyShotReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.ChangePriceReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.MyDiscountDrugReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.DiscountCardReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.DiscountDrugReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.DrugOrderReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.ExpirationDrugReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.SaleReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.SaleShotReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.SalesReturnReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rMyDiscountDrugReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rBuyShotReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.DrugReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rBuyInvoice.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rBuyInvoiceReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rCashOrder.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rChangePriceReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rDiscountCardReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rDiscountDrugReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rDiscountPosTalon.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rDrugOrderReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rDrugReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rExpirationDrugReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rNormalPosTalon.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rSaleInvoiceReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rSaleShotReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rSalesReturnReport.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Settings.ConfigSetting.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Settings.Manual.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Settings.SoftAbout.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Switchscreen.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.exe.licenses
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.exe
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.pdb
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DiscountCustomerList.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.SaleTalonEdit.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Sale.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.SaleInvoiceList.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DiscountCustomerList.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Sale.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.SaleInvoiceList.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.SaleTalonEdit.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.MyDiscountDrugReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rMyDiscountDrugReport.resources
+D:\Project\Pharmacy\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Settings.ClearData.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Settings.ClearData.resources
+D:\My work\Project_Pharmacy_Drugstore\DrugStore\Pharmacy\bin\Debug\DevExpress.TextEdit.v11.1.dll
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.exe
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.pdb
+F:\Ankhbayar\work\DrugStore\Pharmacy\bin\Debug\Pharmacy.exe
+F:\Ankhbayar\work\DrugStore\Pharmacy\bin\Debug\Pharmacy.pdb
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Settings.ClearData.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Buy.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.BuyInvoiceList.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.ChangePassword.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.ChangePrice.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Count.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.CountDetail.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DiscountCard.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DiscountCustomer.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DiscountCustomerList.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DiscountDrug.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DiscountDrugSetting.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Drug.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugBalanceView.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugBill.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugBillView.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugList.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugOrder.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugType.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.DrugUnit.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.ExpirationDrug.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.LoanClose.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Module.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.ModuleGroup.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Sale.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.SaleDetail.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.SaleInvoice.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.SaleInvoiceList.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.SalesReturn.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.SaleTalonEdit.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Setting.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Supplier.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.UserGroup.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.UserPermission.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Users.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Loginscreen.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Mainscreen.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Pos.Discount.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Pos.Normal.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Pos.Payment.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.Printer.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Properties.Resources.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.BuyReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.BuyShotReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.ChangePriceReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.MyDiscountDrugReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.DiscountCardReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.DiscountDrugReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.DrugOrderReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.ExpirationDrugReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.SaleReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.SaleShotReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.SalesReturnReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rMyDiscountDrugReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rBuyShotReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.ReportsForms.DrugReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rBuyInvoice.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rBuyInvoiceReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rCashOrder.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rChangePriceReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rDiscountCardReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rDiscountDrugReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rDiscountPosTalon.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rDrugOrderReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rDrugReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rExpirationDrugReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rNormalPosTalon.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rSaleInvoiceReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rSaleShotReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.rSalesReturnReport.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Settings.ConfigSetting.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Settings.Manual.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Settings.SoftAbout.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Switchscreen.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.csproj.GenerateResource.Cache
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.exe.licenses
+F:\Ankhbayar\work\Originals\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.exe
+F:\Ankhbayar\work\Originals\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.pdb
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.Bill2Customer.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\bin\Debug\Pharmacy.exe.config
+F:\Ankhbayar\work\DrugStore\Pharmacy\bin\Debug\zxing.dll
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Forms.FormBillReturn.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.bill2Customer80.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.bill2Company.resources
+F:\Ankhbayar\work\DrugStore\Pharmacy\obj\x86\Debug\Pharmacy.Reports.bill2Company80.resources
